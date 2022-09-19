@@ -77,7 +77,7 @@ def build_house():
     h.hideturtle() # Hides turtle
     h.pensize(20)
 
-    h.color(150, 10, 0)  # Makes the roof a brick red color
+    h.color(150, 10, 0)  # Makes the roof a brick-red color
 
     h.penup()
     h.setpos(-100, 65)  # Sets position for the base of the house
@@ -250,7 +250,7 @@ def build_door():
 # Runs all the functions that build the house
 def main():
     """
-    Runs all of the components of the house in order to build it.
+    Runs all the components of the house in order to build it.
 
     """
 
