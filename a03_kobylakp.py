@@ -96,7 +96,6 @@ def gate(turt):
 def _Main_():
     wn = turtle.Screen()
     wn.bgcolor("green")
-    wn.tracer(0)
     grey = turtle.Turtle()
     grey.speed("fastest")
     grey.color("black")
@@ -136,7 +135,6 @@ def _Main_():
     grey.pendown()
     gate(grey)
     grey.hideturtle()
-    wn.update()
     wn.exitonclick()
 
 
