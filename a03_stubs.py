@@ -3,12 +3,12 @@
 # TODO a03_username.py and copy this code into it!
 
 #################################################################################
-# Author:
-# Username:
+# Author: Kunga
+# Username: kchemi02
 #
-# Assignment:
-# Purpose:
-# Google Doc Link:
+# Assignment: A03
+# Purpose: To learn more about turtle
+# Google Doc Link: https://docs.google.com/document/d/1HdsxhP0T-vBDLl6xvbjNdHFQC2ZNZ74Ksq5XVELKxSA/edit?usp=sharing
 #
 #################################################################################
 # Acknowledgements:
