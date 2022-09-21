@@ -1,6 +1,10 @@
 # Michel Moncada moncadarabassam, https://docs.google.com/document/d/1heUL1h_w2XBbGpfoDPkpWXY_ID8Kib05DVTrHAi_eE0/edit?usp=sharing
 
 
+import turtle
+p = turtle.Turtle()
+wn = turtle.Screen()
+
 
 def function1():
     spiral.speed(10)
@@ -15,9 +19,6 @@ def function1():
 
 
 def main():
-  import turtle
-  p = turtle.Turtle()
-  wn = turtle.Screen()
   wn.bgcolor("lightblue")
   spiral = turtle.Turtle()
 
@@ -63,18 +64,23 @@ def main():
   p.circle(10, 180)
   p.end_fill()
 
+
+# it is made to create a spiral around the pacman face
 def spiral():
-    spiral.speed(10)
-    spiral.goto(0,0)
-    spiral.width(2)
-    spiral.color("red")
+    s = turtle.Turtle()
+    wn = turtle.Screen()
+    s.speed(10)
+    s.goto(0,0)
+    s.width(2)
+    s.color("red")
 
     for i in range(500):  # this "for" loop will repeat these functions 500 times
-        spiral.forward(i)
-        spiral.left(91)
+        s.forward(i)
+        s.left(91)
+
 
 
 
 
 main()
-
+spiral()
