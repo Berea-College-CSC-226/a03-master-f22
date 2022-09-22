@@ -1,3 +1,6 @@
+#HoangNguyen
+#nguyenh2
+#https://docs.google.com/document/d/19LPOUVQaQ4tBHtQf9gvyyZPl9fparJBGgua1f8VtAf8/edit?usp=sharing
 import turtle
 
 wn = turtle.Screen()
