@@ -30,6 +30,7 @@ def house_roof(wn, jess):
     jess.pendown()
     jess.left(60)
 
+
     jess.color("gray")
     jess.begin_fill()
     for i in range(3):
