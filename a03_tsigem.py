@@ -24,6 +24,7 @@ def house_body(wn, jess):
     jess.end_fill()
     print(jess.pos())
 
+
 def house_roof(wn, jess):
     jess.penup()
     jess.setpos(-100, 50)
