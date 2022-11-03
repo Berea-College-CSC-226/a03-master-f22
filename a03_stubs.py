@@ -2,12 +2,14 @@
 # TODO a03_username.py and copy this code into it!
 
 #################################################################################
-# Author: Molly Perez
-# Username: perezmolly973
+
+# Author: Kunga
+# Username: kchemi02
 #
-# Assignment: A03: Functional Turtles
-# Purpose: To draw something complex
-# Google Doc Link: https://docs.google.com/document/d/1znk7MhgPPoV3hoM9CPm_dM5-c46ASijLQjvD5bLbZzo/edit?usp=sharing
+# Assignment: A03
+# Purpose: To learn more about turtle
+# Google Doc Link: https://docs.google.com/document/d/1HdsxhP0T-vBDLl6xvbjNdHFQC2ZNZ74Ksq5XVELKxSA/edit?usp=sharing
+
 #
 #################################################################################
 # Acknowledgements: Me, myself, and I
