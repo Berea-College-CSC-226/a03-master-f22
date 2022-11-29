@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05431068-7153-4f06-bc8d-984c4bcd006f" name="Changes" comment="I have added my Task 2 program exploring the use of functions. I drew a house on green grass against a night sky background" />
+    <list default="true" id="c489d5e4-b1fa-4be0-987d-b871ce1454a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="ezem" />
+        <entry key="$PROJECT_DIR$" value="Shidartha1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664770506984</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Shidartha Subedi - Shidartha1&#10;Repo- https://github.com/Berea-College-CSC-226/a03-master-f22.git&#10;Google Doc - https://docs.google.com/document/d/1qXlDsPViiKJjbj_CfzpLxdugGlLMePXoc9WpAfjJLPw/edit?usp=sharing">
+      <created>1669501158890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669501158890</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I have added my Task 2 program exploring the use of functions. I drew a house on green grass against a night sky background" />
-    <option name="LAST_COMMIT_MESSAGE" value="I have added my Task 2 program exploring the use of functions. I drew a house on green grass against a night sky background" />
+    <MESSAGE value="Shidartha Subedi - Shidartha1&#10;Repo- https://github.com/Berea-College-CSC-226/a03-master-f22.git&#10;Google Doc - https://docs.google.com/document/d/1qXlDsPViiKJjbj_CfzpLxdugGlLMePXoc9WpAfjJLPw/edit?usp=sharing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shidartha Subedi - Shidartha1&#10;Repo- https://github.com/Berea-College-CSC-226/a03-master-f22.git&#10;Google Doc - https://docs.google.com/document/d/1qXlDsPViiKJjbj_CfzpLxdugGlLMePXoc9WpAfjJLPw/edit?usp=sharing" />
   </component>
 </project>
